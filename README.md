@@ -29,6 +29,15 @@ technologies through AWS Skill Builder.
   rule-based, written feedback for students
   based on a custom criteria.
 
+  **Key technical features:**
+  - A modular, object-oriented architecture.
+  - A multi-page Tkinter graphical interface.
+  - Rule-based text generation and JSON data persistence.
+  - 34 automated unit tests.
+  - Continuous integration using GitHub Actions.
+
+  [View Project on GitHub](https://github.com/MattDodson2/automated-feedback-generator)
+
 - ### Vehicle Sales Dashboard
   An interactive JavaFX application for retrieving
   and visualising vehicle sales data.
