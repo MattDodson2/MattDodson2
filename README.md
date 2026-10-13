@@ -1,16 +1,45 @@
-## Hi there 👋
+## Hi there, I'm Matthew 👋
 
-<!--
-**MattDodson2/MattDodson2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a First-Class BSc (Hons) Computer Science graduate
+from Liverpool John Moores University, based in the UK.
 
-Here are some ideas to get you started:
+I have experience developing desktop applications,
+working with relational databases and implementing
+computational simulations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I'm currently expanding my knowledge of cloud
+technologies through AWS Skill Builder.
+
+## My technical skills include:
+- Languages like Python, SQL and Java.
+  
+- Proficient understanding of software development
+  principles like OOP, Data Structures, Algorithms 
+  and Testing.
+
+- Experience using tools like Git, GitHub, Tkinter
+  and JavaFX.
+
+- Relational Database Design and implementation.
+
+## Some of my projects include: 
+
+- ### Automated Feedback Generator
+  A Python desktop application that generates
+  rule-based, written feedback for students
+  based on a custom criteria.
+
+- ### Vehicle Sales Dashboard
+  An interactive JavaFX application for retrieving
+  and visualising vehicle sales data.
+
+- ### Multi-Agent Data Centre Simulation
+  A NetLogo simulation investigating computational
+  resource allocation and processing efficiency
+  within a data centre.
+
+## I'm currently learning:
+- AWS Cloud Engineering Foundations through
+  AWS Skill Builder.
+
 -->
