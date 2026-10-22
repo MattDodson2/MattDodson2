@@ -50,5 +50,3 @@ technologies through AWS Skill Builder.
 ## I'm currently learning:
 - AWS Cloud Engineering Foundations through
   AWS Skill Builder.
-
--->
