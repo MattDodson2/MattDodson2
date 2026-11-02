@@ -42,10 +42,14 @@ technologies through AWS Skill Builder.
   An interactive JavaFX application for retrieving
   and visualising vehicle sales data.
 
-- ### Multi-Agent Data Centre Simulation
-  A NetLogo simulation investigating computational
-  resource allocation and processing efficiency
-  within a data centre.
+  **Key Technical Features:**
+  - Interactive desktop interface built using FXML and CSS.
+  - Excel import and validation using Apache POI, with asynchronous loading via JavaFX Tasks.
+  - Dynamic filtering, statistical aggregation and interactive charts using Java Collections and Streams.
+  - Modular design with separation of concerns, immutable data models and reusable components.
+  - Automated JUnit testing integrated with GitHub Actions and Apache Maven.
+
+  [View Project on GitHub](https://github.com/MattDodson2/vehicle-sales-dashboard)
 
 ## I'm currently learning:
 - AWS Cloud Engineering Foundations through
