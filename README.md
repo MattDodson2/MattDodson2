@@ -51,6 +51,20 @@ technologies through AWS Skill Builder.
 
   [View Project on GitHub](https://github.com/MattDodson2/vehicle-sales-dashboard)
 
+- ### Multi-Agent Data Centre Simulation
+  A multi-agent Netlogo simulation for analysing
+  the performance of a data centre through different
+  configurations / settings.
+
+  **Key Technical Features:**
+  - Autonomous service agents with state-based behaviour and task allocation.
+  - Dynamic request generation, queue management and task reservations.
+  - Real-time performance monitoring and data visualisation.
+  - Reproducible experiments using NetLogo BehaviorSpace.
+  - Quantitative analysis of throughput, resource utilisation and system scalability.
+
+  [View Project on GitHub](https://github.com/MattDodson2/multi-agent-data-centre-simulation)
+
 ## I'm currently learning:
 - AWS Cloud Engineering Foundations through
   AWS Skill Builder.
